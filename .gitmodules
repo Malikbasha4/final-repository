@@ -1,0 +1,3 @@
+[submodule "slide-navbar-app"]
+	path = slide-navbar-app
+	url = https://github.com/username/slide-navbar-app.git
